@@ -1,0 +1,4 @@
+repository "NumberClicker/NumberClicker@2475252910566@cloud"
+  path "/"
+    br "/main"
+    co "/main"
